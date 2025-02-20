@@ -1,0 +1,39 @@
+name: eco_mobile_app
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.6.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  cupertino_icons: ^1.0.8
+  qr: ^3.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^5.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+      - assets/icons/qr.png
+      - assets/icons/home.png
+      - assets/images/demo.jpg
+      - assets/icons/mingcute_notification-line.png
+      - assets/images/logo-gif.gif
+      - assets/icons/group.png
+      - assets/icons/customer-service.png
+      - assets/icons/people.png
+      - assets/icons/appointment.png
+      
+
