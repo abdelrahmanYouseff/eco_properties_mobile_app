@@ -1,0 +1,1 @@
+/home/abdelrahman/eco_mobile_app/build/app/intermediates/cxx/RelWithDebInfo/4x1bz486/obj/arm64-v8a

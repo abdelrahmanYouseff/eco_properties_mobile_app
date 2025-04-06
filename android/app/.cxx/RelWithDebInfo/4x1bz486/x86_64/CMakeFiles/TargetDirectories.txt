@@ -1,0 +1,2 @@
+/home/abdelrahman/eco_mobile_app/android/app/.cxx/RelWithDebInfo/4x1bz486/x86_64/CMakeFiles/edit_cache.dir
+/home/abdelrahman/eco_mobile_app/android/app/.cxx/RelWithDebInfo/4x1bz486/x86_64/CMakeFiles/rebuild_cache.dir

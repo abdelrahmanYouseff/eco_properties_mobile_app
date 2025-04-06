@@ -1,0 +1,2 @@
+/home/abdelrahman/eco_mobile_app/android/app/.cxx/RelWithDebInfo/4x1bz486/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/abdelrahman/eco_mobile_app/android/app/.cxx/RelWithDebInfo/4x1bz486/armeabi-v7a/CMakeFiles/rebuild_cache.dir

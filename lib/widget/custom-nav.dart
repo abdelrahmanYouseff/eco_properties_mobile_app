@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:eco_mobile_app/screens/home-screen.dart'; 
 import 'package:eco_mobile_app/screens/people-screen.dart';
-import 'package:eco_mobile_app/screens/groups-screen.dart';
 import 'package:eco_mobile_app/screens/event-screen.dart';
 import 'package:eco_mobile_app/screens/support-screen.dart';
 
@@ -16,7 +15,6 @@ class CustomNavBar extends StatelessWidget {
         children: [
           _buildNavItemWithImage(context, 'assets/icons/home.png', 'Home', HomePage()), 
           _buildNavItemWithImage(context, 'assets/icons/people.png', 'People', PeoplePage()),
-          _buildNavItemWithImage(context, 'assets/icons/group.png', 'Groups', GroupPage()),
           _buildNavItemWithImage(context, 'assets/icons/appointment.png', 'Events', EventPage()),
           _buildNavItemWithImage(context, 'assets/icons/customer-service.png', 'Support', SupportPage()),
         ],
